@@ -30,4 +30,8 @@ Bangladesh 🇧🇩
 
 📄 License
 
-This project is provided for development and educational purposes.
+© Copyright
+
+© 2026 Mohammad Tasin. All rights reserved.
+
+Unauthorized copying, modification, redistribution, or commercial use of this project or its contents is prohibited without permission.
